@@ -1,5 +1,6 @@
-https://github.com/sourabh-550/Car-Price-Prediction.git# Car-Price-Prediction-
+ https://github.com/sourabh-550/Car-Price-Prediction.git# Car-Price-Prediction-
 README
+
 🚗 Car Price Prediction
 End-to-end Machine Learning project predicting used car prices using regression and a web app.
 
@@ -17,11 +18,13 @@ Cleans and processes car dataset
 Builds a Random Forest regression model
 Serves predictions through a web app
 Handles categorical encoding and feature scaling automatically
+
 🧠 What I Learned
 Data preprocessing and feature engineering
 Training, evaluating, and saving machine learning models (Pickle / Joblib)
 Integrating ML models with web applications for interactive predictions
-🏃 How to Run
+ 
+ 🏃 How to Run
 Clone the repo:
 git clone https://github.com/sourabh-550/Car-Price-Prediction.git
 
